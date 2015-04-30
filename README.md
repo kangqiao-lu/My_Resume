@@ -21,8 +21,8 @@
 ###关键词:MySQL Redis Python
 *	从SA到DBA只差两个字母,付出的努力只有自己知道.
 *	开始做MySQL运维,也开始改造以前前任留下的脚本.
-*	Python成了首选开发语言,MySQL 监控,备份,归档统统写了一遍.
-*	还是nosql,以前架构真是烂透了,于是有了redis监控,redis-sentinal,[tmc_twem_monitor](https://github.com/kangqiao-lu/tmac_twem_monitor "tmc_twem_monitor")
+*	Python成了首选开发语言,[MySQL监控](https://github.com/kangqiao-lu/mysql_monitor "MySQL监控"),备份,[归档](https://github.com/kangqiao-lu/mysql_archive "归档")统统写了一遍.
+*	还是nosql,以前架构真是烂透了,于是有了[redis监控](https://github.com/kangqiao-lu/redis_monitor "redis监控"),redis-sentinal,[tmc_twem_monitor](https://github.com/kangqiao-lu/tmac_twem_monitor "tmc_twem_monitor")
 *	到处都是脚本,太难管理了,于是有automan,赶集网有了自己的数据库平台.
 
 ###时间:  2015年3月
