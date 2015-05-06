@@ -12,7 +12,7 @@
 *	正式入职赶集网技术保障部成为一名SA.
 *	学会了搬服务器,做raid,装系统,换硬盘,修内存...各种硬件.
 *	看了tcp/ip,udp,http...各种协议.
-*	更学会了Nginx,zabbix,lvs,Xen Server...各种服务.
+*	更学会了Nginx,php-fpm,zabbix,lvs,Xen Server...各种服务.
 *	也知道了什么是sql什么是nosql.
 *	写了第一个公司级服务(shell)-星际之门.
 
